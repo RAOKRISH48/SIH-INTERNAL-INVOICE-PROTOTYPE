@@ -1,0 +1,223 @@
+#header{
+    background-color: rgb(113, 9, 9);
+    height:40px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin:0px;
+    font-size:larger;
+}
+#authentication{
+    height:40px;
+    background-color: rgb(113, 9, 9);
+    display: flex;
+    border: 1px black solid
+}
+#signup{
+    height:40px;
+    margin-left: 5px;
+    color: white;
+    font-size:larger;
+    display:flex;
+    align-items:center;
+    text-decoration: none;
+}
+
+#download{
+    height:40px;
+    margin-left: 5px;
+    color: white;
+    font-size:larger;
+    display:flex;
+    align-items:center;
+    text-decoration: none;
+    margin-left:20px;
+}
+
+#alert{
+    height:40px;
+    margin-left: 5px;
+    color: white;
+    font-size:larger;
+    display:flex;
+    align-items:center;
+    text-decoration: none;
+    margin-left:20px;
+}
+#setting{
+    height:40px;
+    margin-left: 5px;
+    color: white;
+    font-size:larger;
+    display:flex;
+    align-items:center;
+    text-decoration: none;
+    margin-left:20px;
+}
+#print{
+    height:40px;
+    margin-left: 5px;
+    color: white;
+    font-size:larger;
+    display:flex;
+    align-items:center;
+    text-decoration: none;
+    margin-left:20px;
+}
+#menu{
+    height:40px;
+    margin-left: 5px;
+    color: white;
+    font-size:larger;
+    display:flex;
+    align-items:center;
+    text-decoration: none;
+    margin-left:1160px;
+}
+#help{
+    height:40px;
+    margin-left: 5px;
+    color: white;
+    font-size:larger;
+    display:flex;
+    align-items:center;
+    text-decoration: none;
+    margin-left:20px;
+}
+#table{
+    height:300px;
+    width:690px;
+    background-color:white;
+    margin:10px 0px 0px 200px;
+    border: 1px solid black;
+}
+#head{
+    height:30px;
+    border-bottom:1px solid black;
+    display: flex;
+}
+#Serial{
+    border-right:1px solid black;
+    width:70px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-size: large;
+}
+#Description{
+    border-right:1px solid black;
+    width:300px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-size: large;
+}
+#price{
+    border-right:1px solid black;
+    width:100px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-size: large;
+}
+#Quantity{
+    border-right:1px solid black;
+    width:110px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-size: large;
+}
+#total{
+    width:110px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    font-size: large;
+}
+#overalltotal{
+    height:30px;
+    border-top:1px solid black;
+    margin-top:240px;
+    font-size: larger;
+}
+#details{
+    display: flex;
+}
+#invoiceto{
+    height:170px;
+    border:2px solid black;
+    width:400px;
+    margin-top:20px;
+}
+#payment{
+    height:170px;
+    border:2px solid black;
+    width:400px;
+    margin-top:20px;
+    margin-left:20px;
+}
+footer{
+    margin-top:50px;
+}
+#signup:hover{
+    background-color:rgb(144, 30, 30) ;
+    color:aqua;
+}
+#download:hover{
+    background-color:rgb(144, 30, 30) ;
+    color:aqua;
+}#alert:hover{
+    background-color:rgb(144, 30, 30) ;
+    color:aqua;
+}#setting:hover{
+    background-color:rgb(144, 30, 30) ;
+    color:aqua;
+}#print:hover{
+    background-color:rgb(144, 30, 30) ;
+    color:aqua;
+}#menu:hover{
+    background-color:rgb(144, 30, 30) ;
+    color:aqua;
+}#help:hover{
+    background-color:rgb(144, 30, 30) ;
+    color:aqua;
+}
+#body{
+    background-color:rgb(144, 30, 30);
+}
+#signpage{
+    height:300px;
+    width:600px;
+    border:2px solid black;
+    margin-top:100px;
+    margin-left: 450px;
+    background-color: rgb(113, 9, 9);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    background-color: rgb(107, 193, 222);
+    width:50%;
+    margin-left:70px;
+    height: 30px;
+    font-size: medium;
+
+}
+pre{
+    font-size: large;
+}
+input{
+    margin-left:70px;
+    height:40px;
+    width:80%;
+    font-size: medium;
+}
+
+
